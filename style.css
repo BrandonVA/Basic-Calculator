@@ -1,0 +1,18 @@
+#main-container {
+    position: absolute;
+    left: 50%;
+}
+#topBtn button {
+    width: 76px;
+    height: 35px;
+    margin: 1px;
+}
+#outputBar {
+    text-align: right;
+}
+button {
+    text-emphasis: center;
+    width: 35px;
+    height: 35px;
+    margin: 1px;
+}
